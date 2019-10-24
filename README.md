@@ -2,18 +2,18 @@
 - Cucumber was used to support BDD
 - Scenarios/ Tests are written using gherkin syntax
 
-###Scenarios covered include:
+### Scenarios covered include:
 - Pet Creation
 - Pet Updated 
 - Pet Deletion
-- Created Test data are cleaned up up automatically using cucumber hook.
+- Created Test data are cleaned up automatically using cucumber hook.
 
-##Running tests from inteliJ
+## Running tests from inteliJ
 
 - Right click on the runtest.java class in the 'test > java > feature' folder
 - Select run test
 
-##Running tests from commandline
+## Running tests from commandline
 - Ensure you have java installed on machine
 - Download and Extract mvn from <https://maven.apache.org/download.cgi>
 - Extract to a folder
